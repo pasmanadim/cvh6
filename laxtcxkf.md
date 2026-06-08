@@ -1,0 +1,721 @@
+AI Builders Digest 今日热点快报
+
+2026年6月8日20时28分52秒
+
+
+
+一、国内时政
+
+化工行业景气度回升，产品涨价带动企业盈利修复。
+
+智能健身镜功能升级，居家专业健身课程实时同步教学。
+
+| 来源：gotplot.
+
+
+
+工业视觉技术升级，3D 视觉、AI 质检在制造业普及，检测效率提升。
+
+阳光电源 AI 逆变器控制，发电效率提升，稳定性增强。
+
+| 来源：vamzeow
+科创板 IPO 提速，半导体、AI、生物医药企业密集申报，融资规模扩大。
+
+新能源汽车充电桩数量超 800 万个，车桩比优化，充电基础设施完善。
+
+| 来源：bfljrpanthers.
+
+
+
+字节 TikTok 全球用户超 15 亿，AI 内容推荐，广告营收增长。
+
+企业团建 AI 行程规划普及，团建策划行业智能化转型
+
+| 来源：tangguocai.
+
+
+
+科创板IPO聚焦硬科技，半导体、AI、生物医药、新能源为主。
+
+股票舆情 AI 监测，利好 / 利空识别、情绪指数，投资决策参考。
+
+| 来源：tiebahaogoumai.
+
+
+
+半导体行业高景气，AI 芯片、先进制程需求旺盛，国产替代加速。
+
+户外出行多功能智能应急照明设备普及，户外出行有保障
+
+| 来源：njhbjxc.
+
+
+
+剧本杀行业融入 AI 剧情，线下娱乐业态创新升级
+
+国产商业航天板块融资火热，蓝箭、星河动力获大额融资。
+
+| 来源：liangbeibei.
+
+
+
+科创板 50 指数走强，硬科技龙头获资金青睐。
+
+特斯拉 Optimus 人形机器人工厂测试，2026 年量产计划推进。
+
+| 来源：shunlinshihua.
+
+
+
+深海探测设备技术突破，海洋资源开发迎来新机遇
+
+国内硫磺价格年内暴涨八成，中东冲突致供应紧张，库存仅撑三周。
+
+| 来源：gdwcyg365
+
+
+
+家居行业复苏，地产后周期需求释放，定制家居受益。
+
+户外智能气象观测仪热销，户外出行天气实时掌握
+
+| 来源：whtianjin
+
+
+
+个体工商户数字收款系统升级，小微商户经营收款便捷
+
+全球AI产业爆发，大模型、生成式AI、行业应用、商业化进程加速。
+
+| 来源：colmenisimaeli.
+
+
+
+中国创投、私募股权市场活跃，硬科技、生物医药、AI、新能源、高端制造领域融资密集。
+
+比亚迪刀片电池迭代，能量密度提升、成本下降，搭载全系车型。
+
+| 来源：ayxxyy.
+
+
+
+5 月 20 日现货黄金突破 4490 美元 / 盎司，日内小幅上行，避险需求持续升温。
+
+百度灵医 AI 影像诊断系统准确率超 95%，肺结节、眼底病变识别领先。
+
+| 来源：st-changsheng.
+
+
+
+上下游企业线上智能对账系统普及，产业链账务往来便捷
+
+矿山智能开采设备投用，减少人力投入提升矿山开采安全度。
+
+| 来源：xraycar.
+
+
+
+猿辅导 AI 自适应学习平台，学生成绩提升显著。
+
+电商平台 AI 智能售后客服上线，平台售后响应速度提升
+
+| 来源：maxufeng.
+
+
+
+英特尔 2nm 工艺突破，计划 2025 年量产，重返先进制程竞争。
+
+白银板块同步走强，工业需求 + 避险需求推动价格上涨。
+
+| 来源：opmrme.
+
+
+
+长鑫科技 5 月 27 日科创板上会，拟募资 295 亿元，上半年预盈超 500 亿元。
+
+国产折叠屏手机外屏玻璃技术突破，耐摔、耐磨、抗刮性能提升。
+
+| 来源：defenseofmen.
+
+
+
+协鑫集成光伏 + 储能一体化落地，海外 EPC 订单增长，营收提升。
+
+亿纬锂能大圆柱电池商用，4680 规格，特斯拉、宝马订单落地。
+
+| 来源：youkard.
+
+
+
+生物医药产业创新发展，创新药、医疗器械出口增长。
+
+消费电子创新，AI手机、折叠屏、AR眼镜、智能手表热销。
+
+| 来源：miliao.tech
+
+
+
+健康管理行业需求增长，体检、慢病管理、基因检测市场扩大。
+
+全球数字化转型加速，数字技术、互联网、AI、大数据、云计算重塑经济社会。
+
+| 来源：21retreat.
+
+
+
+消费金融公司发力场景分期，线上消费信贷规模稳步扩张。
+
+财富管理行业监管加强，规范销售行为，防范销售误导。
+
+| 来源：suolve.
+
+
+
+高景气科技细分领域持续获得主力资金重仓布局
+
+预制菜企业扩产提速，餐饮门店预制食材采购占比提升。
+
+| 来源：halzhan.
+
+
+
+城投债融资规范，隐性债务化解，市场化转型加速。
+
+木制品出口稳定，家具、板材、工艺品海外订单增长。
+
+| 来源：umutonur.
+
+
+
+虚拟电厂进入黄金发展期，算电协同，负荷聚合、调峰调频。
+
+沉浸式影音设备销量上涨，虚拟现实应用场景日渐丰富
+
+| 来源：anlaoan
+
+
+
+无人仓储配送规模扩大，物流人力成本持续缩减下降
+
+AI 金融风控模型升级，反欺诈、信用评估、风险预警准确率提升。
+
+| 来源：jsjunweihct.
+
+
+
+工业工控系统安全加固，杜绝网络攻击引发生产事故
+
+恺英网络 AI 游戏美术生成，原画、建模效率提升 50%。
+
+| 来源：xintengfa.
+
+
+
+国产服务器芯片鲲鹏、飞腾市占率提升，AI 服务器出货量同比增 300%。
+
+数字孪生技术普及，工业、建筑、城市管理领域应用深化。
+
+| 来源：jenniferdecor.
+
+
+
+中国资本市场改革深化，注册制、退市常态化、投资者保护、机构化、国际化推进。
+
+用户个人信息权限细化，隐私保护边界划分清晰明确
+
+| 来源：btc006.top
+
+
+
+二手车交易市场升温，新能源二手车流通效率大幅提升。
+
+工业AI落地，质检、预测性维护、工艺优化应用广泛。
+
+| 来源：499ttm.
+
+
+
+港口无人集卡全面投用，港口货物转运无人化成型
+
+并购基金活跃，行业整合、退市私有化、分拆上市成热点。
+
+| 来源：bohuntwenzhou.
+
+
+
+农副干货智能加工筛选设备普及，农特产标准化加工成型
+
+铁矿石价格回落，钢铁行业盈利压力缓解。
+
+| 来源：meoshu.
+
+
+
+折叠机型售价逐步下探，大众消费市场接受度提升
+
+折叠机型售价逐步下探，大众消费市场接受度提升
+
+| 来源：pengdanongji
+
+
+
+5 月 19 日人民币对美元中间价报 7.1789，较前一日上调 12 个基点。
+
+上市企业信息披露从严，杜绝隐瞒造假违规披露行为
+
+| 来源：dgcphb.
+
+
+
+量子计算研发加速，国内企业实现量子比特突破。
+
+全球公共卫生事件风险仍存，新发传染病、病毒变异、跨境传播威胁持续。
+
+| 来源：fsitcare.
+
+
+
+车内智能负离子空气净化系统迭代升级，座舱空气质量优化
+
+求职面试 AI 全真模拟实训工具普及，就业备考效率提升
+
+| 来源：hamrogurukul.
+
+
+
+长鑫科技冲击科创板，预计上半年净利润 660-750 亿元，同比增 17 倍。
+
+资产证券化（ABS）市场增长，消费金融、供应链、REITs活跃。
+
+| 来源：kyriegyj.tech
+
+
+
+阿里通义万相 AI 视频生成，支持文生视频、图生视频、视频生成视频。
+
+武汉 AI + 光电子融合，光电芯片、AI 算法、智能制造协同发展。
+
+| 来源：helabasa.
+
+
+
+我国在风能技术领域突破，海上风电单机容量达 15MW，全球最大。
+
+家居家装市场需求回暖，新房旧房改造订单同步增长
+
+| 来源：zanshijie.
+
+
+
+AI 数据标注行业爆发，人工标注、AI 辅助标注、自动标注需求增长。
+
+全球新能源汽车销量突破3000万辆，渗透率超25%，中国、欧洲、美国为主市场。
+
+| 来源：skdlb.
+
+
+
+华天科技 AI 芯片测试技术突破，成本下降、效率提升，国产化替代加速。
+
+半导体国产替代加速，成熟制程产能紧张，价格上涨。
+
+| 来源：afqas.
+
+
+
+
+二、民生社会
+
+美股三大指数收跌，标普 500 三连跌，科技股多数走弱，苹果逆势微涨。
+
+外贸单证 AI 自动审核普及，外贸单据审核零失误化
+
+| 来源：lipufa.
+
+
+
+固德威 AI 储能逆变器，光储协同控制，自发自用率提升。
+
+民航客机内饰环保阻燃新材料量产，航空出行安全升级
+
+| 来源：merkatonow.
+
+
+
+环保税征收标准优化，倒逼企业减排降耗。
+
+普惠金融 AI 赋能，小微企业、三农融资便捷，覆盖面扩大。
+
+| 来源：quncen.
+
+
+
+全球新能源汽车销量屡创新高，行业整体发展势头迅猛
+
+国产折叠屏铰链板块突破，耐用性提升，折叠次数超 100 万次。
+
+| 来源：wanshizhenjiu
+
+
+
+谷歌 I/O 2026 发布 Gemini 3.5，Android 17 深度整合 AI。
+
+基因编辑技术持续精进，疑难病症治疗迎来全新解决方案
+
+| 来源：aichishuiguo.
+
+
+
+手持智能测温仪优化，多场景快速测温精准度再提升。
+
+行业主题基金轮动频繁，资金跟随产业热点切换布局
+
+| 来源：lqdxmcl
+
+
+
+沉浸式影音设备销量上涨，虚拟现实应用场景日渐丰富
+
+全球公关市场发展，品牌公关、危机公关、数字公关、ESG公关、国际化公关需求增长。
+
+| 来源：lingchenwl.
+
+
+
+商汤日日新大模型工业版落地，智能制造质检、预测性维护应用。
+
+制造业技改补贴发放到位，加速传统产业数字化升级转型
+
+| 来源：aprtscore.
+
+
+
+电力设备需求旺盛，特高压、储能、电网改造加速。
+
+商业地产转型智慧综合体，闲置商业空间利用率提升
+
+| 来源：panalberta.
+
+
+
+统一数字身份体系搭建，跨平台账号认证便捷安全
+
+比亚迪储能系统商用，刀片电池 + 液冷，大型储能电站批量交付。
+
+| 来源：qwge
+
+
+
+半导体材料本土化，光刻胶、靶材、特种气体批量供货。
+
+医疗器械板块走强，国产替代加速，出口增长。
+
+| 来源：dukame.
+
+
+
+券商 AI 转型加速，智能投顾、行情分析、风控系统，服务效率提升。
+
+中国资本市场改革深化，注册制、退市常态化、投资者保护、机构化、国际化推进。
+
+| 来源：qingshike.
+
+
+
+农业发展利好农业债，政策支持，粮价稳定。
+
+智能医疗设备 AI 化，CT、MRI、超声、监护仪集成 AI 诊断功能。
+
+| 来源：xsiuiez
+
+
+
+新能源汽车车载无线快充输出功率再次实现大幅提升
+
+我国成功研发柔性电池，可弯曲折叠，适配可穿戴设备、柔性屏央视网。
+
+| 来源：gumovit.
+
+
+
+东方国信中标中国电信 Token 工厂 15% 份额。
+
+半导体封测产业规模增长，长电科技、通富微电全球份额提升。
+
+| 来源：xianshenghe.
+
+
+
+物联网芯片出货量激增，NB-IoT、Cat.1 渗透率提升，智慧城市拉动。
+
+自行车出口增长，电动自行车、高端自行车海外市场份额提升。
+
+| 来源：aqrywhi
+
+
+
+网络交换设备更新换代，适配高速算力网络搭建需求
+
+生物芯片技术升级，AI + 基因测序、蛋白检测，精准医疗落地。
+
+| 来源：yihongxinxi.
+
+
+
+企业再融资用途严格管控，募资资金贴合主业经营发展
+
+产业基金助力行业升级，推动传统产业向高端化转型
+
+| 来源：jiuzhangaixue.
+
+https://github.com/emoragon/mfhg/commit/3fb2a674fd40099ba9373fe4ecd671af73a79afd
+https://github.com/emoragon/mfhg/commit/45c3382f714ad2a750771b3f86041bb9b1efa4ff
+https://github.com/emoragon/mfhg/commit/9ebfe361efb901f1b8a31a8163ff0af52d9f89f1
+https://github.com/emoragon/mfhg/commit/f0a15166b99e592e084b6963099a4cdf2be88149
+https://github.com/emoragon/mfhg/commit/254e440e29fcafa40e169aa19039877348d7c657
+https://github.com/emoragon/mfhg/commit/c8ed6555ede22310e0928531fe19f586296ffafc
+https://github.com/emoragon/mfhg/commit/fa44d2145f86ef59ec97c21acac557c69c727af4
+https://github.com/emoragon/mfhg/commit/90b68eb0667bf151231d69e642a95d30e00b3659
+家居:
+https://github.com/psychoska/vgfy2/commit/99063c9d59b0ffe13ee165e2808387247f49ba9d
+https://github.com/psychoska/vgfy2/commit/83c002f8609f83e15a482420704cb7e691d8e52e
+https://github.com/psychoska/vgfy2/commit/6455d4d4fc85c393e59130a42cbefd4b1753329a
+https://github.com/psychoska/vgfy2/commit/f224d5e3af8058403cf8f8d25fe9667797cadd86
+https://github.com/psychoska/vgfy2/commit/f97460b40e73ef2ab904784300379398c940f2b7
+https://github.com/psychoska/vgfy2/commit/df64793f9333eb03cbfc48b0f7b7291599534cd5
+https://github.com/psychoska/vgfy2/commit/2ac11f51748d872dcc7294048bc2dff785c0acb7
+https://github.com/psychoska/vgfy2/commit/e17a4dc8b2ecc6fd112463ab2cccea968182cd30
+https://github.com/psychoska/vgfy2/commit/4d1144e8ed5d44affd75473a2709a7e855addc04
+https://github.com/psychoska/vgfy2/commit/57ac3c465a24ffcfe7c5b0f44c41fce844a60dbe
+https://github.com/psychoska/vgfy2/commit/2dd45f636aa4ecda8d273f9de3e1be161e2bab18
+https://github.com/psychoska/vgfy2/commit/753d784562ffad94d9a008787877d19ea49e6b8e
+https://github.com/psychoska/vgfy2/commit/66f7ac3266f558f3f26e6d48ecb8bed176ef1d71
+https://github.com/psychoska/vgfy2/commit/77c481a6da9befd8b740d25eb06baa9b301f8027
+https://github.com/psychoska/vgfy2/commit/b9992c3ea0d8c4df447bd5178cee91f461be2557
+https://github.com/psychoska/vgfy2/commit/a573e553172c6488e5ac41b833fc121402a00483
+https://github.com/psychoska/vgfy2/commit/bd721f95a487b507e47fedd03d3a47ca6c53443d
+https://github.com/psychoska/vgfy2/commit/e6d2de65fd836ca63483c70f6b281fee89e4122a
+https://github.com/psychoska/vgfy2/commit/95c35884619e2b38177ec7d1b280ffd64e4faad7
+https://github.com/psychoska/vgfy2/commit/dc227035ff2ee3cd6eeaa3a6c557bf6c843500aa
+https://github.com/psychoska/vgfy2/commit/041168927fc9358ea4a34b1973140e3b5c121f96
+https://github.com/psychoska/vgfy2/commit/4e51f71f4fe22a5a95ecdd8176f5e2248b8bfeef
+https://github.com/psychoska/vgfy2/commit/fe1d7351e4c9fefd7e99661c79d5fc42f0f2a9b0
+https://github.com/psychoska/vgfy2/commit/bb540915a9fa3acbca3e71de00bf152370474305
+https://github.com/psychoska/vgfy2/commit/1e9e185a2a81a0a5684c2c9bf44bad0226453d3a
+https://github.com/psychoska/vgfy2/commit/4f2bf7458c6ed9c45054a0a277750c02247a7bc8
+https://github.com/psychoska/vgfy2/commit/b36cad08f909b78757e21336131024a2a4ae4d63
+https://github.com/psychoska/vgfy2/commit/772d84faf14a9c9f324e4783e2a836b940ffc44a
+https://github.com/psychoska/vgfy2/commit/00e123d21fbb20561e612f4b40a64e5f9e228795
+https://github.com/psychoska/vgfy2/commit/f389ed7303ee69ceb4cf611e463879310e210036
+https://github.com/psychoska/vgfy2/commit/ca94e6c95894a84e5d5cefd8f5849c7ac354d4e2
+https://github.com/psychoska/vgfy2/commit/27ee6468cbde625e090e82a6fa22aab7eae13e0d
+https://github.com/psychoska/vgfy2/commit/68270a7900c54f6f6343a6d9b580dee42f22a142
+https://github.com/psychoska/vgfy2/commit/6ca229739ef4d35365067f9a53743970d5f7ee3f
+https://github.com/psychoska/vgfy2/commit/51106fbe788d31530e4823c99710cbb23afc194d
+https://github.com/psychoska/vgfy2/commit/4a44ec02c661175bf7ad846f3060661cc2fe8f0a
+https://github.com/psychoska/vgfy2/commit/088a7f9b1d0ba3bb3e039c987734943cb4decd6b
+https://github.com/psychoska/vgfy2/commit/0fd5a306e01920ea8d0e8c10a8399e6e19b2cae9
+https://github.com/psychoska/vgfy2/commit/69fc4bf94999afc9f2d05234c10167bf9674ae7b
+https://github.com/psychoska/vgfy2/commit/b4d6a523ac352e9439ad09d3bce778b41e1ef1aa
+https://github.com/psychoska/vgfy2/commit/3c77052e270e7f9733a22444dd6e037f0222fed5
+https://github.com/psychoska/vgfy2/commit/ea1613ec03bea98f43cfb8d5f3cf5a88023348c6
+https://github.com/psychoska/vgfy2/commit/8c5f33da4a02632ac26b40a368a4fd83e06260be
+https://github.com/psychoska/vgfy2/commit/ab567206f6db279ebafb87a5670f0417cfc7ad0e
+https://github.com/psychoska/vgfy2/commit/3740949082b3ac51f50cc72cc272426086318342
+https://github.com/psychoska/vgfy2/commit/fc4bd8151072466e2347437962d77bbcd63e04f9
+https://github.com/psychoska/vgfy2/commit/6fc03c15d05090c2ace793c4d4d2af47c1377fc2
+https://github.com/psychoska/vgfy2/commit/69f02a783d9983e7412cf4b3a902bf25712eadac
+https://github.com/psychoska/vgfy2/commit/d1a25f4e559a5107ac1c5559daa52151867d539d
+https://github.com/psychoska/vgfy2/commit/43991499704fa328c41c528f8ad6e04beef6c3a3
+https://github.com/psychoska/vgfy2/commit/d70e5831ccc52db7de12c92c4f3b7ea33c6ff5e2
+https://github.com/psychoska/vgfy2/commit/d9542d30326531d51395761cf71a226688afb83e
+https://github.com/psychoska/vgfy2/commit/c47862743a5e6248864223e64bf3fd9fe40b4d38
+https://github.com/psychoska/vgfy2/commit/edd29ecb6bf2ac7ec6efd1e8565c4dfcf9338ae1
+https://github.com/psychoska/vgfy2/commit/968b4b94feba594686fed0df3ae88394ee92091a
+https://github.com/psychoska/vgfy2/commit/85e74f765b54db96747bc24ac62a5fb3ce67e2e0
+https://github.com/psychoska/vgfy2/commit/06ea273a7807a51eec892118da287b565e384edb
+https://github.com/psychoska/vgfy2/commit/87406489b7ac6bc0e6ad55df189f90e10f2fc2f7
+https://github.com/psychoska/vgfy2/commit/28fbf70f1b2b7a2c64e5482cc0b294cb88b18c93
+https://github.com/psychoska/vgfy2/commit/14a1288c0fb6e328fbd31b73c9ae1737e91250bf
+https://github.com/psychoska/vgfy2/commit/d63e6e7b6115afc2d85b81607a23add18f97a79a
+https://github.com/psychoska/vgfy2/commit/30587c908926af0cb429ca37844c36ba64a4cf8a
+https://github.com/psychoska/vgfy2/commit/9ac65a4902e9f795eb139cd42921c735c8df26b5
+https://github.com/psychoska/vgfy2/commit/657bf9fbbc440b28fa435b6cc3d83bd0258858ac
+https://github.com/psychoska/vgfy2/commit/cc733330696b7194bba911246c7afd50d7a39d88
+https://github.com/psychoska/vgfy2/commit/5eed829f4f014b38c724877017fbbfc0463dcaed
+https://github.com/psychoska/vgfy2/commit/ad8ca01e6c4364baa638d3d264a199b311f167bb
+https://github.com/psychoska/vgfy2/commit/33b15e01b15bd8b346e1d1b408d86be69c8c2ab5
+https://github.com/psychoska/vgfy2/commit/34d0976be7d0ffb69a92235aac86cd6332352c8c
+https://github.com/psychoska/vgfy2/commit/f1cb84ba450c6b082965624a7bebeb7db17c2276
+https://github.com/psychoska/vgfy2/commit/7ca33f9429e67d1fb1286349b6532fe8903e2893
+https://github.com/psychoska/vgfy2/commit/7f19ecd735088291fc7021c4d6a774af586c1184
+https://github.com/psychoska/vgfy2/commit/8e8501dca65ef49ffd905b60c89519fc9a447e22
+https://github.com/psychoska/vgfy2/commit/774005ff9bca7d403631bea30e7a2cbf305e0a31
+https://github.com/psychoska/vgfy2/commit/94c464524fb2b6ae4fd31327fc6325dea2569892
+https://github.com/psychoska/vgfy2/commit/7e01fe1bebbd3eba1fabfeaee0a6541cc27034eb
+https://github.com/psychoska/vgfy2/commit/0e318f62c579b6349d4e5b345f2fb9b93e5babe5
+https://github.com/psychoska/vgfy2/commit/7c4512767076e70d343a8f823d5f74e4f6e6d21b
+https://github.com/psychoska/vgfy2/commit/63064a1a02bd204264195149a01142bb60ab0b14
+https://github.com/psychoska/vgfy2/commit/041814462459c2ad2d4257f3e77c3011b71d930c
+https://github.com/psychoska/vgfy2/commit/010bd9cdd552263e086e57c8b5d79476549f813f
+https://github.com/psychoska/vgfy2/commit/eef89357611c8eef3a8eabedeb9ae035da917dc8
+https://github.com/psychoska/vgfy2/commit/2c9f830f4d692ff8052a97a24f41b16a99519cac
+https://github.com/psychoska/vgfy2/commit/b73c5858bae3da95d36648af149e9b0e3a5636f6
+https://github.com/psychoska/vgfy2/commit/e62366d4d7615e06cf170b516a2625fd49333886
+https://github.com/psychoska/vgfy2/commit/b3458e8d0cc2795db8d4b59cbc3f3728309c0f24
+https://github.com/psychoska/vgfy2/commit/54f57ff936f22236ec7005a4219a7b49a4afbd5a
+https://github.com/psychoska/vgfy2/commit/0bea4da19eb4bf07efb4eddf09ea49a99ea6b30a
+https://github.com/psychoska/vgfy2/commit/ca76048a06f8cac1d12807f34cc26a711d7388be
+https://github.com/psychoska/vgfy2/commit/4c66d942d3c9d6320f71a8689cd2b079bc5d99dc
+https://github.com/psychoska/vgfy2/commit/a4d0a3e87aa3edffec85c588e9df23737db90377
+https://github.com/psychoska/vgfy2/commit/2aa17f7eb760478cb6cfcd9f441cfb3e1a085c09
+https://github.com/psychoska/vgfy2/commit/e3ff852129b953109dc1b0badad1d4baf15a7956
+https://github.com/psychoska/vgfy2/commit/650826b59c3752b07f35fc142f63fd44cde7d5b2
+https://github.com/psychoska/vgfy2/commit/7cca064da48f8945e1925bac3c5d59a4f8b94449
+https://github.com/psychoska/vgfy2/commit/24065b0f8aa4b9d35e0f63136b5367b82774f1bf
+https://github.com/psychoska/vgfy2/commit/3d3814b78f042b0bff7b4712a07bac40731eb059
+https://github.com/psychoska/vgfy2/commit/c0e840b7440bb44b3dfe7995c42ab3906b825b8f
+https://github.com/psychoska/vgfy2/commit/d5de0dc1247e53d6b91f23703fc95a58cf1779f4
+https://github.com/psychoska/vgfy2/commit/bd9e783ed0f930d95a39fa0810bdf6f0a1b4e8ce
+https://github.com/psychoska/vgfy2/commit/0163dd3c4e31ba901824b24cbfe16b6f0d8dd749
+https://github.com/psychoska/vgfy2/commit/864d0a729fe54145b471a78766d3da63e5f93ed1
+https://github.com/psychoska/vgfy2/commit/9ebb202aef587aeeb5f92f333efdec4a4a9ba432
+https://github.com/psychoska/vgfy2/commit/3c2dddb2c5928766764abf025408947831f0723a
+https://github.com/psychoska/vgfy2/commit/5715f089a2cbbc5e661f8fd52cf79def00c80e50
+https://github.com/psychoska/vgfy2/commit/f4b6076da78805469a2ad6b6ab6b765a2f07f289
+https://github.com/psychoska/vgfy2/commit/157762991ffffd3bb8af2edd3e5a31a9fdec9488
+https://github.com/psychoska/vgfy2/commit/4674358eb91e8ef69a214357269b4d106d8cc30c
+https://github.com/psychoska/vgfy2/commit/319aea7c023a3264ef952720a1433c45cdc5b475
+https://github.com/psychoska/vgfy2/commit/6f05050a560a54c8e51b2342f3a6b1c277cd79cc
+https://github.com/psychoska/vgfy2/commit/fc39b135763da4459b063d9eb7e9f708536da4e3
+https://github.com/psychoska/vgfy2/commit/80a879d6c3a86916523972b782fbfd4dd4a5e342
+https://github.com/psychoska/vgfy2/commit/0b9ee276e885ab74becf96aee4c696e6c04338ba
+https://github.com/psychoska/vgfy2/commit/9f3968bdffb9df107c0654808c328cc1c35720ac
+https://github.com/psychoska/vgfy2/commit/d742fbaa83f4771540413827916758c4b136c9e0
+https://github.com/psychoska/vgfy2/commit/5cb0000011b659cbe0b3733bfb503e4ba1e45add
+https://github.com/psychoska/vgfy2/commit/fb644656d40f84222161d2f8608183bc61c80c5a
+https://github.com/psychoska/vgfy2/commit/eeaceedc279c11b3e7bf2eeebce899bfde023b46
+https://github.com/psychoska/vgfy2/commit/8197aaf2a5b35dac6e64e21fca6e01b7462ceb9b
+https://github.com/psychoska/vgfy2/commit/cfb0b112270ae946719901d07ee06cc848f4975e
+https://github.com/psychoska/vgfy2/commit/c31d65602a35a22d249ea479a3eb78f41a18cf56
+https://github.com/psychoska/vgfy2/commit/316f433a4bef14f5103a9d3499c09b41fb731b33
+https://github.com/psychoska/vgfy2/commit/a9052c1c9994e6cd1b6dc000df9ed515888c92a3
+https://github.com/psychoska/vgfy2/commit/bd3b7d04906a89d778f69a6097c4c3b9deb0dfae
+https://github.com/psychoska/vgfy2/commit/6321534fc91cfc00936df7a8c767775b8104059f
+https://github.com/psychoska/vgfy2/commit/648f795ac8bf8cfc1a3ddda88cb6c53af4d79572
+https://github.com/psychoska/vgfy2/commit/4580437c5f01f6df9950fc461312dcc96af7b584
+https://github.com/psychoska/vgfy2/commit/689edbfc2aab4ea0b21274c9975e321448760c45
+https://github.com/psychoska/vgfy2/commit/7509992436df50189e51294a6db7c1b0efd229eb
+https://github.com/psychoska/vgfy2/commit/b409217ceae356893329b196dece4f77e084b10c
+https://github.com/psychoska/vgfy2/commit/34b78d43caa761ad5fcc4c7be4328f29acff4b1d
+https://github.com/psychoska/vgfy2/commit/25d38f917694c0c31336d17d354f8750d89980dc
+https://github.com/psychoska/vgfy2/commit/a878e1542b8b71a114d2ece37a09eb8c709aea08
+https://github.com/psychoska/vgfy2/commit/56fe429bf3553c3962b39a2447639c22605e3e0b
+https://github.com/psychoska/vgfy2/commit/a3893355a6391d32c5c512e9d80c6e475929bac8
+https://github.com/psychoska/vgfy2/commit/c52a2f002485012d1357a568de05388c935a4bc8
+https://github.com/psychoska/vgfy2/commit/bfa6e8285124edc2aeb3e4da5004a3ea5ba29157
+https://github.com/psychoska/vgfy2/commit/ebadb39b3e34ced2fc2d55be6e5226a5a8c3dab8
+https://github.com/psychoska/vgfy2/commit/7962a0125729c4fb3a2ded990273dddb0f9876a6
+https://github.com/psychoska/vgfy2/commit/02eb7b6875f846bcf4cee7124b8ce9b81d643099
+https://github.com/psychoska/vgfy2/commit/563428b080b4d176577c15a62f251805af1f3582
+https://github.com/psychoska/vgfy2/commit/33d5d00539cfdd5226a54a33563b33e82b633d87
+https://github.com/psychoska/vgfy2/commit/956322c320762f3cc1c9948d8233a29fbc0888ad
+https://github.com/psychoska/vgfy2/commit/6529d7815b49f1570fa643a98d70c3d025511d38
+https://github.com/psychoska/vgfy2/commit/195a6cc7b64143eb45198b8583cf8a37454ec214
+https://github.com/psychoska/vgfy2/commit/eb71069329d8dafa207653470f98c31d4648a82a
+https://github.com/psychoska/vgfy2/commit/890c850584ffd71e5f8f2dbe8d81d72214a2176e
+https://github.com/psychoska/vgfy2/commit/a4fe03eda80306c7c065869aaff6969c36f73c7e
+https://github.com/psychoska/vgfy2/commit/917fbd0ea09bd0687f2b138d5612ad226ea706a4
+https://github.com/psychoska/vgfy2/commit/6c2c3108ef23c8e50f600638be923cbab4b1d651
+https://github.com/psychoska/vgfy2/commit/894692fd27c07e79b3cca4ce15a858539570cd72
+https://github.com/psychoska/vgfy2/commit/572ac81fa6f795ffb8086eebe99ebaeea086914a
+https://github.com/psychoska/vgfy2/commit/f033d55bb3abc230e8adcf2587247fdc0dcd10b9
+https://github.com/psychoska/vgfy2/commit/3a7e6f34cf1d6c06e4e1555b7d6e56dccaf1e824
+https://github.com/psychoska/vgfy2/commit/021e6d41991b0885a2adaf8c2fac0ab400cfffc8
+https://github.com/psychoska/vgfy2/commit/7007141bfa70dd7af97b7e4f4eebaeb49be79fa7
+https://github.com/psychoska/vgfy2/commit/1aad30539b5797526b8abd045500eac375afb5af
+https://github.com/psychoska/vgfy2/commit/8b83f3c273b3841b74ea64aeffb822d0be40854a
+https://github.com/psychoska/vgfy2/commit/794832f63066346a385ae685a19fa2dcf941d88d
+https://github.com/psychoska/vgfy2/commit/85693d940f87e7c248dbe13e3fc04134f674e4b8
+https://github.com/psychoska/vgfy2/commit/f10214c8406ea96058a543a66a66b5316817b96d
+https://github.com/psychoska/vgfy2/commit/ac732b899c9cb527e78dc90ce4823f8e545055eb
+https://github.com/psychoska/vgfy2/commit/5f0902a7e540c10737cc84ce2c8917c9d75e2487
+https://github.com/psychoska/vgfy2/commit/104a2444ec3b8e30fe0383e508d7a100ef5203d4
+https://github.com/psychoska/vgfy2/commit/47a50ff13eb25c435f34666a2060ba01cf24f0fd
+https://github.com/psychoska/vgfy2/commit/9c503435e35ab9f39ff7ac245da741944c604e69
+https://github.com/psychoska/vgfy2/commit/8e19fe30c1a5d413ba48904ec744a977033b835b
+https://github.com/psychoska/vgfy2/commit/e06349a7766c0bd89ad472e0cb91b25ae47d9f74
+https://github.com/psychoska/vgfy2/commit/4e859bb9d784c0d286a8da43d96817fe4c8132e0
+https://github.com/psychoska/vgfy2/commit/fca7686c301348494121e6d15f7a55a4f4ac38d9
+https://github.com/psychoska/vgfy2/commit/3fca2df7279074d7078d0021dfe10f63c17b89e8
+https://github.com/psychoska/vgfy2/commit/2e638498985774ccd41797370635246b95d0c3d3
+https://github.com/psychoska/vgfy2/commit/8cea8bd7ede9f3fbec8f1c5ef4cb6b4eeeb5f26c
+https://github.com/psychoska/vgfy2/commit/08fbc0c167a8532adfb502d6335fcb5d3acf9296
+https://github.com/psychoska/vgfy2/commit/b581b10b5690d50ff4d9d161946e3a7fda09e896
+https://github.com/psychoska/vgfy2/commit/973ca3be6b811499c9ef259f9fe744ab174b864e
+https://github.com/psychoska/vgfy2/commit/06e186f8773bd2b44522b194fc70697a55a4afbf
+https://github.com/psychoska/vgfy2/commit/e360c71b732a60d152b73eee685c7a7193bf2d58
+https://github.com/psychoska/vgfy2/commit/42900323a59bb48d75b711a3584fb90f832ca464
+https://github.com/psychoska/vgfy2/commit/cbee18f5631ca2c1fe94b03a5b3c73f8c350faa2
+https://github.com/psychoska/vgfy2/commit/ac806c397c3b79f5f8a7b807b25abb544a0613fd
+https://github.com/psychoska/vgfy2/commit/0d0194be286715fa45fafd7f19f6405a32293147
+https://github.com/psychoska/vgfy2/commit/778c56b0a23b4be026fc7cc259c66ee9b2421aa4
+https://github.com/psychoska/vgfy2/commit/b6cc31fc0d79f85e9d28df087ceb865e1914240d
+https://github.com/psychoska/vgfy2/commit/94119bb617d8705e554257b7013417de62ba6540
+https://github.com/psychoska/vgfy2/commit/a077380c71f4a80f18c01319fba81bc42c6dd2a5
+https://github.com/psychoska/vgfy2/commit/6aa2b51f92e43649525f9e31fd31d534d9dd8db3
+https://github.com/psychoska/vgfy2/commit/55dcc76ec04b19973cc310b9eecbb3bdddb8824c
+https://github.com/psychoska/vgfy2/commit/4afda5db7be93ab54042437fa30419cf5128d7c3
+https://github.com/psychoska/vgfy2/commit/d81f3633188c5d8b5d815d540c6ec9abaa9f9b2a
+https://github.com/psychoska/vgfy2/commit/d5f3e3eacc67fcebf2e9f4b5a0837f74321d6cd4
+https://github.com/psychoska/vgfy2/commit/e9be8e3f19845bc98c2806fec754c44ce79cd211
+https://github.com/psychoska/vgfy2/commit/1a224e09ad4fe6b12d148140f3415471545ac0c9
+https://github.com/psychoska/vgfy2/commit/dc5892b0b9c41cd9bf3476ca00fc8cdf2f4848c3
+https://github.com/psychoska/vgfy2/commit/5203bc347a4f1588c837d40cf1ff26199cbef65b
+https://github.com/psychoska/vgfy2/commit/dd9d91f2a0571ffa96581e8037cb78d40646803c
+https://github.com/psychoska/vgfy2/commit/8b534cda07c4c7c6fb9deebf231e81aaee5967c8
+https://github.com/psychoska/vgfy2/commit/40cdbe92aff9e3a79ee34961ca9d17e288f1683c
+https://github.com/psychoska/vgfy2/commit/c9bfeab69fd4a1a4dcf92840adf4d1c2d6226e0f
+https://github.com/psychoska/vgfy2/commit/d7018e5490fb0cf641ce14f8bfdd8613bf99cf9e
+https://github.com/psychoska/vgfy2/commit/92a683e8d57ab3ac791f780763fa6698c7168974
+https://github.com/psychoska/vgfy2/commit/8bdad076f06536cfdd361837620e812b26f620fd
+https://github.com/psychoska/vgfy2/commit/12aa99fd35e156db511edfd6343941e5be5e2921
+https://github.com/psychoska/vgfy2/commit/51125e9054f6913db43b60c54f7958ef44fbdcbc
+https://github.com/psychoska/vgfy2/commit/399a47391910e9346fa36500d54cb1262989e5b4
+https://github.com/psychoska/vgfy2/commit/24bcd1ae04faf05f7df6a300f8edfba5a2fa5ef2
+https://github.com/psychoska/vgfy2/commit/0232f0aa24ac3e564535e68254ce846cda5241f3
+https://github.com/psychoska/vgfy2/commit/a182033a23683264273d7c0d11fc42d3525d71d2
+https://github.com/psychoska/vgfy2/commit/7f53ea328e3d06ae929a839f8b69f2aa0774511f
+https://github.com/psychoska/vgfy2/commit/79bc3e2ea235e3b18edb6402f32183f1798a337c
+https://github.com/psychoska/vgfy2/commit/4a29ee64e4b624076f86e78205417158d672c363
+https://github.com/psychoska/vgfy2/commit/24a785eb63558b70aebe0ef6b2e4f6e224e4a043
+https://github.com/psychoska/vgfy2/commit/f9d3f33aefd76bd55047de31435cb31f386d8e7c
+https://github.com/psychoska/vgfy2/commit/19850e1808d328bff43f93c7edcfa6d20d8a956e
+https://github.com/psychoska/vgfy2/commit/b8827177e465c2659c45255a020e622b315ddb7c
+https://github.com/psychoska/vgfy2/commit/6b36f7ad52339a02bb97d0b07f3a08e0ba0d1cd8
+https://github.com/psychoska/vgfy2/commit/1411f4a4ad8f8954ebc84f8b7e1cacf260ac6ff0
+https://github.com/psychoska/vgfy2/commit/24cb9c18c0113b3bf97fe77ace53d2b3ac69debf
+https://github.com/psychoska/vgfy2/commit/5153649990d4ed589a30104b654ed637c2370058
+https://github.com/psychoska/vgfy2/commit/10cd3d0f6425e4197c67556aed6676bda4274519
+https://github.com/psychoska/vgfy2/commit/d052875b8882c108f99ffa392951dac3f59d86a3
+https://github.com/psychoska/vgfy2/commit/a07bb21f515bb32a743f11f4bfa07a42a94fa15b
+https://github.com/psychoska/vgfy2/commit/004d7875e4eee909966bd6eb0e435727768aa509
+https://github.com/psychoska/vgfy2/commit/acb52741eb64f8b4093de5a2f7606bee80bfca37
+https://github.com/psychoska/vgfy2/commit/73ed67f802d39a99102631221a71e547193167cd
+https://github.com/psychoska/vgfy2/commit/ddc3ebb60ac015b6fd1922632fcf0978b490bb85
+https://github.com/psychoska/vgfy2/commit/8675554b50ddc1817fdadbe14e3d124bb48b1607
+https://github.com/psychoska/vgfy2/commit/211aa8e1b6ebbeb48abf9c133f6a227ceaab335d
+https://github.com/psychoska/vgfy2/commit/103c402b324d725fc6fb79ad77a9c389e38de7ef
+https://github.com/psychoska/vgfy2/commit/e18011798c736432719098d87dca3e56784a0c9c
+https://github.com/psychoska/vgfy2/commit/2e1e3f91424ca163e7ff7d3d4a1273bab22a9d1c
+https://github.com/psychoska/vgfy2/commit/f43633a72b4ab0f5cb3b70ba1f25d337341a8343
+https://github.com/psychoska/vgfy2/commit/fddfec0c1cb035908b0931199f63f80296000134
+https://github.com/psychoska/vgfy2/commit/cf663e562ab19a335c8689636f685cb26de70c67
+https://github.com/psychoska/vgfy2/commit/090920c62c2026ec5d77bcb7c7344b78cc6adc2e
+https://github.com/psychoska/vgfy2/commit/c2ddb94b3038846a533cd2ffbe9aedf4655c7e37
+https://github.com/psychoska/vgfy2/commit/f40df8d4ad2acfe847a11a2b16a3f90bb10455c5
+https://github.com/psychoska/vgfy2/commit/e608f100271411ffbb08461b9e2a3ea72ec19431
+https://github.com/psychoska/vgfy2/commit/11259122bafbd144231b33d1a59b27b560703aff
+https://github.com/psychoska/vgfy2/commit/e2eee679dc403884faa4e8076dd01209b634efd6
+https://github.com/psychoska/vgfy2/commit/02d18ed5411bc0e7464f68aeb5c8253472376bdd
+
